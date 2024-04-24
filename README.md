@@ -36,28 +36,5 @@
 
 <br>
 
-<h2>My Project previews videos</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4" width="300px" >
-        </a>
-      </td>
-      <td>
-      <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트2">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
-        </a>
-      </td>
-      <td>
-       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <br/>
 <br/>
