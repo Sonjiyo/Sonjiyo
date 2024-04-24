@@ -14,6 +14,10 @@
 * 자바 웹 개발 (Docker) 양성 과정 ( 2023.10.10 ~ 2024.04.24 )
 * 웹디자인 (웹퍼블리셔) 프론트앤드 실무자 양성 ( 2020.12.21 ~ 2021.05.11 )
 
+---
+### 외부 링크
+* [Notion](https://planet-leopard-fb2.notion.site/5aa724e0664c4110a270db0580ef0944?pvs=4)
+* [tistory](https://tofumushroom.tistory.com/)
 
 ---
 
